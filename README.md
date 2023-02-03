@@ -1,3 +1,3 @@
-# low-code-jupyter-docs
+Low Code Assistant™ documentation has moved to https://dominodatalab.github.io/low-code-assistant-docs/
 
-Redirect placeholder for low-code-assistant docs repo and GitHub pages site
+Redirecting shortly...
